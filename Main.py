@@ -1,1 +1,3 @@
-print("Main Test Test Test")
+import Launcher
+
+Launcher.start_camera()
