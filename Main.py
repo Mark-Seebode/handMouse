@@ -1,3 +1,3 @@
-import Launcher
+import CameraControl
 
-Launcher.start_camera()
+CameraControl.start_camera()
