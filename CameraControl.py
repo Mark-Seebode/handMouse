@@ -11,7 +11,7 @@ def start_camera():
         print("Error: Could not open camera")
         exit()
 
-    print("Camera successfully opened")
+    print("Camera opened successfully")
 
     for i in range(1000):
         pass
